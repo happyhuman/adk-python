@@ -121,3 +121,7 @@ CLAUDE.md
 
 # Conformance test outputs (timestamped folders from --test mode)
 **/conformance/20*-*-*_*-*-*/
+
+# adk-verify-snippets skill — generated report files (never commit these)
+*_REPORT.md
+*_report.md
